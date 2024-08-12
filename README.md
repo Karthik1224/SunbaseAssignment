@@ -43,7 +43,7 @@ Java Version : 17
 Spring Boot : 3.3.2
 Frontend : Visual code editor
 Backend : Eclipse/Intellij 
-In Application properties use your database credentails
+Backend : In Application properties use your database credentails , in web configuration use your frontend url 
 Have to make sure that both applications are up and running.
 To go from current page to login page, just refresh 
 
