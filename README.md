@@ -38,5 +38,17 @@ Utilised fetch api to make requests to the backend
 JwtToken is stored in local storage
 
 
+How To Check Application working:
+Java Version : 17
+Spring Boot : 3.3.2
+Frontend : Visual code editor
+Backend : Eclipse/Intellij 
+In Application properties use your database credentails
+Have to make sure that both applications are up and running.
+To go from current page to login page, just refresh 
+
+
+
+
 
 
